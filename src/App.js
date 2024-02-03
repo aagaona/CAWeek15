@@ -22,7 +22,7 @@ function App() {
       </div>
       <footer className='footer'>
         <div>
-          🏰 Powered by Power Play Gamez 🏰
+          🏰 Property of Power Play Gamez 🏰
         </div>
       </footer>
     </div>

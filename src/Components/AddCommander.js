@@ -65,6 +65,7 @@ function AddCommander({ decks, setDecks }) {
             {errorMessage}
           </div>
         )}
+        <h6 className='mt-2'>Powered by Scryfall API</h6>
       </div>
     </div>
   );
